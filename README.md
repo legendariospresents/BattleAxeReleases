@@ -22,4 +22,4 @@ Pull requests are welcome. For major changes, please open an issue first to disc
 Please make sure to update changes as appropriate.
 
 ## License
-[Click here!](https://github.com/BattleAxeClient/battle-axe-releases/blob/master/README.md)
+[Click here!](https://github.com/BattleAxeClient/battle-axe-releases/blob/master/LICENSE.md)

@@ -1,4 +1,4 @@
-# Licensing information {#license}
+# [Licensing information](https://github.com/BattleAxeClient/battle-axe-releases/blob/master/LICENSE.md)
 
 Copyright (c) 2020 Battle Axe Client
 
@@ -8,4 +8,4 @@ This license may update, if it does, you have to abide by the new/updated licens
 Using this source code to add or make a new product is not allowed, unless directly stated otherwise
 # External code used
 
-Based From Horion
+Based From [Horion](https://github.com/horionclient/Horion)
