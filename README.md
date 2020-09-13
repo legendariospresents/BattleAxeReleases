@@ -1,6 +1,6 @@
 # Battle Axe Client
 
-Foobar is a Python library for dealing with word pluralization.
+Battle Axe Client is a Minecraft Windows 10 Edition (Bedrock) Utility Mod!
 
 ## Installation
 
