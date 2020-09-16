@@ -1,25 +1,29 @@
-# Battle Axe Client
-
-Battle Axe Client is a Minecraft Windows 10 Edition (Bedrock) Utility Mod!
-
-## Installation
-
-<!-- Use the package manager [pip](https://pip.pypa.io/en/stable/) to install foobar. 
-
-```bash
-pip install foobar
-```
- -->
-## Usage
-
 ```python
-.help
+ _                                      _                                  ___                                    _         
+( )                                    ( )              _                 (  _`\                                 ( )_       
+| |       __     __     __    ___     _| |   _ _  _ __ (_)   _     ___    | |_) ) _ __   __    ___    __    ___  | ,_)  ___ 
+| |  _  /'__`\ /'_ `\ /'__`\/' _ `\ /'_` | /'_` )( '__)| | /'_`\ /',__)   | ,__/'( '__)/'__`\/',__) /'__`\/' _ `\| |  /',__)
+| |_( )(  ___/( (_) |(  ___/| ( ) |( (_| |( (_| || |   | |( (_) )\__, \   | |    | |  (  ___/\__, \(  ___/| ( ) || |_ \__, \
+(____/'`\____)`\__  |`\____)(_) (_)`\__,_)`\__,_)(_)   (_)`\___/'(____/   (_)    (_)  `\____)(____/`\____)(_) (_)`\__)(____/
+              ( )_) |                                                                                                       
+               \___/'                                                                                                       
 ```
+``` python
+ ___           _    _    _              _____              
+(  _`\        ( )_ ( )_ (_ )           (  _  )             
+| (_) )   _ _ | ,_)| ,_) | |    __     | (_) |         __  
+|  _ <' /'_` )| |  | |   | |  /'__`\   |  _  |(`\/') /'__`\
+| (_) )( (_| || |_ | |_  | | (  ___/   | | | | >  < (  ___/
+(____/'`\__,_)`\__)`\__)(___)`\____)   (_) (_)(_/\_)`\____)
+```
+# Enjoy Battle Axe Releases lol...
 
-## Contributing
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
+P3 is the most ez clan I've ever seen we all know you'll never destroy LB LOL
+P.S this release is probably broken or idk i haven't tested it 
 
-Please make sure to update changes as appropriate.
+if it does work, it probably contains just a RGB / Rainbow keystrokes & gui and they call this shit battle axe lol
+
+(i just found out that the dll they have of god mode is fake LMAO) if i do find it or if it turns out to be real i will most probably have it and publish it 
 
 ## License
-[Click here!](https://github.com/BattleAxeClient/battle-axe-releases/blob/master/LICENSE.md)
+[MIT](https://choosealicense.com/licenses/mit/)
